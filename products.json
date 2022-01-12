@@ -1,8 +1,16 @@
 [
     {
         "title": "Snipcart Logo Sticker",
+        "image": "/images/1.png",
         "id": "sticker_logo",
         "description": "Show off your Snipcart support with a logo sticker!",
         "price": "2.00"
-    }
+    },
+    {
+        "title": "Snipcart Logo Sticker Pack",
+        "image": "/images/2.png",
+        "id": "sticker_logo_pack",
+        "description": "Get a pack of 3 Snipcart logo stickers.",
+        "price": "4.00"
+      }
 ]
